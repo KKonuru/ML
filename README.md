@@ -9,3 +9,6 @@ cmake -DCMAKE_PREFIX_PATH="/Users/kausthubhkonuru/Personal Projects/ML/libtorch"
 cmake --build . --config Release  
 ./projectname
 ```
+
+## Todo
+Compile pytorch to enable mps utilization
